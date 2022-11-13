@@ -1,0 +1,22 @@
+{
+  "name": "smartcam",
+  "version": "1.0.0",
+  "description": "## smart home cam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokatty/smartCam.git"
+  },
+  "author": "jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokatty/smartCam/issues"
+  },
+  "homepage": "https://github.com/jokatty/smartCam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
